@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo "Prova de conceito 01 - Victor Resende"
+echo "Prova de conceito 01 - Victor Resende (1922120027)"
+echo
 
 #Etapa 01
 echo "Etapa 01: Update dos pacotes"
@@ -20,11 +21,12 @@ wget https://gist.github.com/nunomazer/873219/archive/690e1f604dc8ead2583589e1ae
 
 #Etapa 05
 echo "Etapa 05: Instalando o software zip e unzip para descompactar arquivos .zip"
-apt-get install -y zip unzip
+apt-get install -y zip
+apt-get install -y unzip
 
 #Etapa 06
 #echo "Etapa 06: Descompactando arquivo e copiando os arquivos descompactados cv-resumido.html e style.css"
-#unzip 
+#unzip
 
 
 
